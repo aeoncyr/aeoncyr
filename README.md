@@ -37,7 +37,7 @@ I am a biomedical engineering, machine learning, and robotics enthusiast, curren
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Tools</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,github,git,docker,gcp,tensorflow,opencv,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,github,git,docker,gcp,tensorflow,opencv,mysql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
