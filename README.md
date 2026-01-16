@@ -1,6 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ### Greetings! I am Fajar 🙋‍♂️
+<a href="https://github.com/aeoncyr">
+  <img height="240em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmoyOXZmcjFlcXZiMm90eXZvNDkzYzgwd3puem9lc3Fld3gwZGMzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LqW9dLVjQm3cs/giphy.gif" />
+</a>
 
 ## 👨‍🏫 Short Introduction
 
