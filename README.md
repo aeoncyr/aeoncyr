@@ -4,13 +4,20 @@
 
 ## 👨‍🏫 Short Introduction
 
-I am a biomedical engineering, machine learning, and robotics enthusiast, currently pursuing excellence in both academic and industrial practices.
+I am currently a Data Scientist. But, trust me, everything about biomedical engineering, robotics, and artificial intelligence excites me. Currently, I am pursuing excellence in both academic and industrial practices.
 
 - 🎓 Bachelor of Electrical Engineering from Universitas Padjadjaran.
-- 💼 Currently looking for job opportunity
-- 📖 Learning more about the application of machine learning in: 
-    - data analytics
-    - computer vision for disease classification
+- 💼 Currently Advancing Career in Data Scientist 
+- 📖 Learning more about the application of AI and ML in: 
+    - Data Analytics
+    - Computer Vision
+    - Biomedical Engineering
+- 🏅 Professional Certifications
+
+-  **Huawei Certified Cloud Developer – AI (HCCDP-AI)**
+-  **Microsoft Fabric Analytics Engineer Associates**
+-  **Google GAIL (Google Generative AI Leader)**
+
 
 <h3 align="left">Activity:</h3>
 <a href="https://github.com/aeoncyr">
