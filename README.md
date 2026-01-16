@@ -7,7 +7,7 @@
 
 ## 👨‍🏫 Short Introduction
 
-I am currently a Data Scientist. But, trust me, everything about biomedical engineering, robotics, and artificial intelligence excites me. Currently, I am pursuing excellence in both academic and industrial practices.
+I am currently a Data Scientist. But, nevertheless, everything about biomedical engineering, robotics, and artificial intelligence excites me. Currently, I am pursuing excellence in both academic and industrial practices.
 
 - 🎓 Bachelor of Electrical Engineering from Universitas Padjadjaran.
 - 💼 Currently Advancing Career in Data Scientist 
