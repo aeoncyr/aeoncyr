@@ -19,18 +19,50 @@ I am a biomedical engineering, machine learning, and robotics enthusiast, curren
 
 <h3 align="left">Current weapons:</h3>
 <table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="45" src="https://skillicons.dev/icons?i=c,python,javascript,html"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Tools</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,github,git,docker,gcp,tensorflow,opencv,mysql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
+  <tr>
+    <td><strong>Programming</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,c,javascript" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Machine Learning & AI</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,sklearn" /><br/>
+      <sub>ML fundamentals · Deep Learning · Computer Vision · Model Evaluation</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Data & Analytics</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br/>
+      <sub>Microsoft Fabric · Lakehouse · ETL/ELT · Data Modeling</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Cloud & MLOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=gcp,azure,aws,docker,kubernetes" /><br/>
+      <sub>Cloud AI Workflows · Deployment Concepts · Scalable Pipelines</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Developer Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,matlab" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
+    </td>
+  </tr>
 </table>
 
 ---
