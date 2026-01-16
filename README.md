@@ -13,10 +13,9 @@ I am currently a Data Scientist. But, trust me, everything about biomedical engi
     - Computer Vision
     - Biomedical Engineering
 - 🏅 Professional Certifications
-
--  **Huawei Certified Cloud Developer – AI (HCCDP-AI)**
--  **Microsoft Fabric Analytics Engineer Associates**
--  **Google GAIL (Google Generative AI Leader)**
+    -  **Huawei Certified Cloud Developer – AI (HCCDP-AI)**
+    -  **Microsoft Fabric Analytics Engineer Associates**
+    -  **Google GAIL (Google Generative AI Leader)**
 
 
 <h3 align="left">Activity:</h3>
