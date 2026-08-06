@@ -7,7 +7,7 @@
 
 ## 👨‍🏫 Short Introduction
 
-Currently a Data Scientist. Perpetually excited about biomedical engineering, robotics, and AI. Currently, I am pursuing excellence in both academic and industrial practices.
+Currently a Data Scientist (and a Data Engineer... Sometimes an AI Engineer too.). Perpetually excited about biomedical engineering, robotics, and AI. Currently, I am pursuing excellence in both academic and industrial practices.
 
 - 🎓 Bachelor of Electrical Engineering from Universitas Padjadjaran.
 - 💼 Currently Advancing Career in Data Scientist 
@@ -16,9 +16,12 @@ Currently a Data Scientist. Perpetually excited about biomedical engineering, ro
     - Computer Vision
     - Biomedical Engineering
 - 🏅 Professional Certifications
+    -  **DP 700 - Microsoft Certified: Fabric Data Engineer Associate**
+    -  **AI 300 - Microsoft Certified: Machine Learning Operations Engineer Associate**
+    -  **DP 600 - Microsoft Certified: Fabric Analytics Engineer Associate**
     -  **Huawei Certified Cloud Developer – AI (HCCDP-AI)**
-    -  **Microsoft Fabric Analytics Engineer Associates**
     -  **Google GAIL (Google Generative AI Leader)**
+    -  **Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)**
 
 
 <h3 align="left">Activity:</h3>
