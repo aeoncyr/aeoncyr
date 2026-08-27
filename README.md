@@ -10,7 +10,7 @@
 Currently a Data Scientist (and a Data Engineer... Sometimes an AI Engineer too.). Perpetually excited about biomedical engineering, robotics, and AI. Currently, I am pursuing excellence in both academic and industrial practices.
 
 - 🎓 Bachelor of Electrical Engineering from Universitas Padjadjaran.
-- 💼 Currently Advancing Career in Data Scientist 
+- 💼 Currently Advancing Career in Data Scientist and AI Engineer
 - 📖 Learning more about the application of AI and ML in: 
     - Data Analytics
     - Computer Vision
